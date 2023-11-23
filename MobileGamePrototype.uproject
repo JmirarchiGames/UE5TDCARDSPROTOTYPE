@@ -14,11 +14,6 @@
 		{
 			"Name": "GameplayBehaviors",
 			"Enabled": true
-		},
-		{
-			"Name": "EasyFeedback",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9abf2706112340d69faafe4a5c2bc310"
 		}
 	]
 }
