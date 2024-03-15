@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "{36705874-46D4-2C1D-2011-14A3BE0CF198}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -16,18 +16,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GameAnalytics",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490"
-		},
-		{
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
-		},
-		{
-			"Name": "EasyFeedback",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9abf2706112340d69faafe4a5c2bc310"
 		}
 	]
 }
